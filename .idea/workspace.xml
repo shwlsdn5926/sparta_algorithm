@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="25199aee-1cff-4146-ac71-304a759ac0ee" name="변경" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2DiIbGpzllA1PKHRCvvXuaBNKOT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/nojin-u/Desktop/코딩연습/sparta_algorithm/week_4&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/week_4" />
+      <recent name="$PROJECT_DIR$/week_2/homework" />
+      <recent name="$PROJECT_DIR$/week_2" />
+      <recent name="$PROJECT_DIR$/week_1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.06_get_min_city_chicken_distance">
+    <configuration name="02_DFS_recursion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="sparta_algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week_4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week_4/02_DFS_recursion.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="03_balanced_parentheses_string" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="sparta_algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week_5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week_5/03_balanced_parentheses_string.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="04_get_game_over_turn_count" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="sparta_algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week_5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week_5/04_get_game_over_turn_count.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="05_is_available_to_take_out_only_red_marble" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="sparta_algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week_5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week_5/05_is_available_to_take_out_only_red_marble.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="06_get_min_city_chicken_distance" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="sparta_algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week_5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week_5/06_get_min_city_chicken_distance.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.06_get_min_city_chicken_distance" />
+        <item itemvalue="Python.05_is_available_to_take_out_only_red_marble" />
+        <item itemvalue="Python.02_DFS_recursion" />
+        <item itemvalue="Python.04_get_game_over_turn_count" />
+        <item itemvalue="Python.03_balanced_parentheses_string" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="25199aee-1cff-4146-ac71-304a759ac0ee" name="변경" comment="" />
+      <created>1661175547320</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1661175547320</updated>
+      <workItem from="1661175550511" duration="3161000" />
+      <workItem from="1661247375425" duration="6425000" />
+      <workItem from="1661339292608" duration="3654000" />
+      <workItem from="1661423101375" duration="6075000" />
+      <workItem from="1661650115895" duration="4657000" />
+      <workItem from="1661773277459" duration="4013000" />
+      <workItem from="1661856620319" duration="6889000" />
+      <workItem from="1661942890423" duration="4995000" />
+      <workItem from="1661947909482" duration="1947000" />
+      <workItem from="1662028685398" duration="5612000" />
+      <workItem from="1662182579549" duration="10639000" />
+      <workItem from="1662373017556" duration="7805000" />
+      <workItem from="1662461979425" duration="4444000" />
+      <workItem from="1662548566858" duration="6678000" />
+      <workItem from="1662635047927" duration="5890000" />
+      <workItem from="1662687132053" duration="9079000" />
+      <workItem from="1662775114071" duration="3394000" />
+      <workItem from="1662809083940" duration="4972000" />
+      <workItem from="1662942243435" duration="56000" />
+      <workItem from="1663065936122" duration="6500000" />
+      <workItem from="1663151852969" duration="6120000" />
+      <workItem from="1663233737493" duration="4730000" />
+      <workItem from="1663317859341" duration="1199000" />
+      <workItem from="1663408831927" duration="3884000" />
+      <workItem from="1663582345101" duration="5350000" />
+      <workItem from="1663839951484" duration="5611000" />
+      <workItem from="1663975369665" duration="6865000" />
+      <workItem from="1664187818679" duration="5218000" />
+      <workItem from="1664536384176" duration="3353000" />
+      <workItem from="1664618180210" duration="3528000" />
+      <workItem from="1664688940822" duration="1000" />
+      <workItem from="1664751423259" duration="5292000" />
+      <workItem from="1664836599498" duration="1185000" />
+      <workItem from="1664922002103" duration="3291000" />
+      <workItem from="1665009271326" duration="335000" />
+      <workItem from="1665095120803" duration="1628000" />
+      <workItem from="1665441831234" duration="2646000" />
+      <workItem from="1665529562420" duration="1286000" />
+      <workItem from="1665701352129" duration="2192000" />
+      <workItem from="1666484740645" duration="1474000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/sparta_algorithm$05_get_linked_list_sum.coverage" NAME="05_get_linked_list_sum 커버리지 결과" MODIFIED="1661863299928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_2" />
+    <SUITE FILE_PATH="coverage/sparta_algorithm$02_is_available_to_order.coverage" NAME="02_is_available_to_order 커버리지 결과" MODIFIED="1662188607367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_2/homework" />
+    <SUITE FILE_PATH="coverage/sparta_algorithm$02_maxheap_delete.coverage" NAME="02_maxheap_delete 커버리지 결과" MODIFIED="1663072029782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_4" />
+    <SUITE FILE_PATH="coverage/sparta_algorithm$01_get_minimum_count_of_oversea_supply.coverage" NAME="01_get_minimum_count_of_oversea_supply 커버리지 결과" MODIFIED="1663588252906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_4/homework" />
+    <SUITE FILE_PATH="coverage/sparta_algorithm$08_queue.coverage" NAME="08_queue 커버리지 결과" MODIFIED="1662637287842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_3" />
+    <SUITE FILE_PATH="coverage/sparta_algorithm$04_merge_sort.coverage" NAME="04_merge_sort 커버리지 결과" MODIFIED="1662464678818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_3" />
+    <SUITE FILE_PATH="coverage/sparta_algorithm$04_is_number_exist.coverage" NAME="04_is_number_exist 커버리지 결과" MODIFIED="1661339599176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_1" />
+    <SUITE FILE_PATH="coverage/sparta_algorithm$03_get_count_of_ways_to_target_by_doing_plus_or_minus.coverage" NAME="03_get_count_of_ways_to_target_by_doing_plus_or_minus 커버리지 결과" MODIFIED="1662185357708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_2/homework" />
+    <SUITE FILE_PATH="coverage/sparta_algorithm$05_find_max_plus_or_multiply.coverage" NAME="05_find_max_plus_or_multiply 커버리지 결과" MODIFIED="1661342205377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_1" />
+    <SUITE FILE_PATH="coverage/sparta_algorithm$02_get_count_of_departments_cleaned_by_robot_vaccum.coverage" NAME="02_get_count_of_departments_cleaned_by_robot_vaccum 커버리지 결과" MODIFIED="1663588123838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_4/homework" />
+    <SUITE FILE_PATH="coverage/sparta_algorithm$02_find_alphabet_occurence_array.coverage" NAME="02_find_alphabet_occurence_array 커버리지 결과" MODIFIED="1661249394367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_1" />
+    <SUITE FILE_PATH="coverage/sparta_algorithm$09_factorial.coverage" NAME="09_factorial 커버리지 결과" MODIFIED="1662029746192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_2" />
+    <SUITE FILE_PATH="coverage/sparta_algorithm$02_is_correct_parenthesis.coverage" NAME="02_is_correct_parenthesis 커버리지 결과" MODIFIED="1662696716412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_3/homework" />
+    <SUITE FILE_PATH="coverage/sparta_algorithm$03_find_max_occurred_alphabet.coverage" NAME="03_01_find_max_occurred_alphabet 커버리지 결과" MODIFIED="1661252828184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_1" />
+    <SUITE FILE_PATH="coverage/sparta_algorithm$03_balanced_parentheses_string.coverage" NAME="03_balanced_parentheses_string 커버리지 결과" MODIFIED="1664753941517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_5" />
+    <SUITE FILE_PATH="coverage/sparta_algorithm$04_BFS_queue.coverage" NAME="04_BFS_queue 커버리지 결과" MODIFIED="1663234780358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_4" />
+    <SUITE FILE_PATH="coverage/sparta_algorithm$Python_.coverage" NAME="Python 콘솔 커버리지 결과" MODIFIED="1662638216645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/sparta_algorithm$04_delete_node_linked_list.coverage" NAME="04_delete_node_linked_list 커버리지 결과" MODIFIED="1661861203877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_2" />
+    <SUITE FILE_PATH="coverage/sparta_algorithm$06_get_min_city_chicken_distance.coverage" NAME="06_get_min_city_chicken_distance 커버리지 결과" MODIFIED="1666485786641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_5" />
+    <SUITE FILE_PATH="coverage/sparta_algorithm$00_study_class.coverage" NAME="00_study_class 커버리지 결과" MODIFIED="1661774697154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_2" />
+    <SUITE FILE_PATH="coverage/sparta_algorithm$05_is_available_to_take_out_only_red_marble.coverage" NAME="05_is_available_to_take_out_only_red_marble 커버리지 결과" MODIFIED="1665444466383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_5" />
+    <SUITE FILE_PATH="coverage/sparta_algorithm$02_get_node_linked_list.coverage" NAME="02_get_node_linked_list 커버리지 결과" MODIFIED="1661857592352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_2" />
+    <SUITE FILE_PATH="coverage/sparta_algorithm$03_get_all_ways_of_theater_seat.coverage" NAME="03_get_all_ways_of_theater_seat 커버리지 결과" MODIFIED="1663585833109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_4/homework" />
+    <SUITE FILE_PATH="coverage/sparta_algorithm$05_merge_sort.coverage" NAME="05_merge_sort 커버리지 결과" MODIFIED="1662466352562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_3" />
+    <SUITE FILE_PATH="coverage/sparta_algorithm$Python___1_.coverage" NAME="Python 콘솔 (1) 커버리지 결과" MODIFIED="1662688351429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/sparta_algorithm$03_add_node_linked_list.coverage" NAME="03_add_node_linked_list 커버리지 결과" MODIFIED="1661859351026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_2" />
+    <SUITE FILE_PATH="coverage/sparta_algorithm$03_get_melon_best_album.coverage" NAME="03_get_melon_best_album 커버리지 결과" MODIFIED="1662812189507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_3/homework" />
+    <SUITE FILE_PATH="coverage/sparta_algorithm$09_dict.coverage" NAME="09_dict 커버리지 결과" MODIFIED="1662688848982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_3" />
+    <SUITE FILE_PATH="coverage/sparta_algorithm$01_catch_me.coverage" NAME="01_catch_me 커버리지 결과" MODIFIED="1663844983282" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_5" />
+    <SUITE FILE_PATH="coverage/sparta_algorithm$06_find_not_repeating_first_character.coverage" NAME="06_find_not_repeating_first_character 커버리지 결과" MODIFIED="1661425334588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_1" />
+    <SUITE FILE_PATH="coverage/sparta_algorithm$02_DFS_recursion.coverage" NAME="02_DFS_recursion 커버리지 결과" MODIFIED="1665095900493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_4" />
+    <SUITE FILE_PATH="coverage/sparta_algorithm$00_hello.coverage" NAME="00_hello 커버리지 결과" MODIFIED="1661175748339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_1" />
+    <SUITE FILE_PATH="coverage/sparta_algorithm$01_get_max_discounted_price.coverage" NAME="01_get_max_discounted_price 커버리지 결과" MODIFIED="1662692874265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_3/homework" />
+    <SUITE FILE_PATH="coverage/sparta_algorithm$05_fibo_recursion.coverage" NAME="05_fibo_recursion 커버리지 결과" MODIFIED="1663235490081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_4" />
+    <SUITE FILE_PATH="coverage/sparta_algorithm$01_print_all_linked_list.coverage" NAME="01_print_all_linked_list 커버리지 결과" MODIFIED="1661777151246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_2" />
+    <SUITE FILE_PATH="coverage/sparta_algorithm$01_01_find_max_num.coverage" NAME="01_01_find_max_num 커버리지 결과" MODIFIED="1661177030441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_1" />
+    <SUITE FILE_PATH="coverage/sparta_algorithm$01_bubble_sort.coverage" NAME="01_bubble_sort 커버리지 결과" MODIFIED="1662374951801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_3" />
+    <SUITE FILE_PATH="coverage/sparta_algorithm$01_find_prime_list_under_number.coverage" NAME="01_find_prime_list_under_number 커버리지 결과" MODIFIED="1661652407094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_1/homework" />
+    <SUITE FILE_PATH="coverage/sparta_algorithm$04_get_game_over_turn_count.coverage" NAME="04_get_game_over_turn_count 커버리지 결과" MODIFIED="1664758204255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_5" />
+    <SUITE FILE_PATH="coverage/sparta_algorithm$01_02_get_kth_node_from_last.coverage" NAME="01_02_get_kth_node_from_last 커버리지 결과" MODIFIED="1662191564881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_2/homework" />
+    <SUITE FILE_PATH="coverage/sparta_algorithm$02_string_compression.coverage" NAME="02_string_compression 커버리지 결과" MODIFIED="1663981675772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_5" />
+    <SUITE FILE_PATH="coverage/sparta_algorithm$02_02_set_is_available_to_order.coverage" NAME="02_02_set_is_available_to_order 커버리지 결과" MODIFIED="1662193944083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_2/homework" />
+    <SUITE FILE_PATH="coverage/sparta_algorithm$03_DFS_stack.coverage" NAME="03_DFS_stack 커버리지 결과" MODIFIED="1663157886883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_4" />
+    <SUITE FILE_PATH="coverage/sparta_algorithm$01_maxheap.coverage" NAME="01_maxheap 커버리지 결과" MODIFIED="1663068160324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_4" />
+    <SUITE FILE_PATH="coverage/sparta_algorithm$08_count_down.coverage" NAME="08_count_down 커버리지 결과" MODIFIED="1662028914787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_2" />
+    <SUITE FILE_PATH="coverage/sparta_algorithm$01_02_find_max_num.coverage" NAME="01_02_find_max_num 커버리지 결과" MODIFIED="1661177914318" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_1" />
+    <SUITE FILE_PATH="coverage/sparta_algorithm$10_01_is_palindrome.coverage" NAME="10_01_is_palindrome 커버리지 결과" MODIFIED="1662031991005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_2" />
+    <SUITE FILE_PATH="coverage/sparta_algorithm$07_get_receiver_top_orders.coverage" NAME="07_get_receiver_top_orders 커버리지 결과" MODIFIED="1662554401297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_3" />
+    <SUITE FILE_PATH="coverage/sparta_algorithm$03_insertion_sort.coverage" NAME="03_insertion_sort 커버리지 결과" MODIFIED="1662380489926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_3" />
+    <SUITE FILE_PATH="coverage/sparta_algorithm$01_get_kth_node_from_last.coverage" NAME="01_01_get_kth_node_from_last 커버리지 결과" MODIFIED="1662190774472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_2/homework" />
+    <SUITE FILE_PATH="coverage/sparta_algorithm$06_is_existing_target_number_binary.coverage" NAME="06_is_existing_target_number_binary 커버리지 결과" MODIFIED="1661948534908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_2" />
+    <SUITE FILE_PATH="coverage/sparta_algorithm$11_get_absent_student.coverage" NAME="11_get_absent_student 커버리지 결과" MODIFIED="1662690623829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_3" />
+    <SUITE FILE_PATH="coverage/sparta_algorithm$02_selection_sort.coverage" NAME="02_selection_sort 커버리지 결과" MODIFIED="1662378131176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_3" />
+    <SUITE FILE_PATH="coverage/sparta_algorithm$06_fibo_dynamic.coverage" NAME="06_fibo_dynamic 커버리지 결과" MODIFIED="1663584337049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_4" />
+    <SUITE FILE_PATH="coverage/sparta_algorithm$06_01_is_existing_target_number_sequential.coverage" NAME="06_01_is_existing_target_number_sequential 커버리지 결과" MODIFIED="1661948383998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_2" />
+    <SUITE FILE_PATH="coverage/sparta_algorithm$03_02_find_max_occurred_alphabet.coverage" NAME="03_02_find_max_occurred_alphabet 커버리지 결과" MODIFIED="1661253344425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_1" />
+    <SUITE FILE_PATH="coverage/sparta_algorithm$07_is_existing_target_number_binary.coverage" NAME="07_is_existing_target_number_binary 커버리지 결과" MODIFIED="1661949230467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_2" />
+    <SUITE FILE_PATH="coverage/sparta_algorithm$02_find_count_to_turn_out_to_all_zero_or_all_one.coverage" NAME="02_find_count_to_turn_out_to_all_zero_or_all_one 커버리지 결과" MODIFIED="1661656550292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_1/homework" />
+    <SUITE FILE_PATH="coverage/sparta_algorithm$06_stack.coverage" NAME="06_stack 커버리지 결과" MODIFIED="1662550243932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_3" />
+  </component>
+</project>
